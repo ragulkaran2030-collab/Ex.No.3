@@ -1,7 +1,7 @@
 # Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 
-### DATE: 07.08.2026                                                                           
-### REGISTER NUMBER : 212223040138
+### DATE: 02-11-2026                                                                         
+### REGISTER NUMBER : 212225040171
 # Aim: 
 To write the prompts for these following prompt types and evaluate that using any one method 
 Straightforward Prompts,
